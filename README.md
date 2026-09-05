@@ -64,7 +64,7 @@ The repository keeps lightweight reports, sample recommendations, and visualizat
 The versioned Collaborative showcase reports **RMSE 0.8200** and **MAE 0.6246** on a test split of 780,000 ratings. Generated Hybrid outputs are written locally under `outputs/hybrid/` and can be promoted to the showcase when ready.
 
 ## Documentation
-##راهنمای فارسی
+##  راهنمای فارسی
 
 - [Data pipeline](docs/dataset.md)
 - [Content-Based Filtering](docs/content_based.md)
