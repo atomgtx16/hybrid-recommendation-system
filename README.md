@@ -1,4 +1,4 @@
-[🇺🇸 English](#-english-readme) | [🇮🇷 فارسی](#راهنمای-فارسی)
+[🇺🇸 English](#-english-readme) | [🇮🇷 فارسی](#راهنمایفارسی)
 
 ##  English README
 
