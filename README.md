@@ -1,7 +1,6 @@
-[🇺🇸 English](#-english-readme) | [🇮🇷 فارسی](#-راهنمای-فارسی)
-)
+[🇺🇸 English](#english-readme) | [🇮🇷 فارسی](#-راهنمای-فارسی)
 
-# English
+##  English README
 
 # Hybrid Movie Recommendation System
 
